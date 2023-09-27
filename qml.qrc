@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Face.png</file>
+        <file>insta.png</file>
+        <file>Tele.png</file>
+        <file>tik.png</file>
+        <file>twitt.png</file>
+        <file>watsapp.png</file>
+        <file>mess.png</file>
+        <file>link.png</file>
+        <file>snap.png</file>
+        <file>you.png</file>
+        <file>scooty.jpg</file>
+        <file>MobileBatteryNotification.qml</file>
+        <file>NotificationBatteryIcon.svg</file>
+    </qresource>
+</RCC>
